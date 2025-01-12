@@ -15,17 +15,17 @@ This repository highlights my expertise in Business Intelligence, showcasing pro
 
 
 
-## 📂 Repository Structure
+## Repository Structure
 - `/canada-job-market-analysis`: Files for the Canada Labour Market Analysis project  
 
 
 
-## 👩‍💻 About Me
+## About Me
 I am Mira Kim, an aspiring Buiness Intelligence specialist with over six years of experience working with large datasets. I am passionate about solving complex problems through data and presenting insights in a way that drives informed decisions.  
 
 
 
 
-## 📬 Contact
+## Contact
 - **LinkedIn**: [www.linkedin.com/in/mira-kim-data](www.linkedin.com/in/mira-kim-data)
 - **Email**: [Email Me](mailto:k.ella.8520@gmail.com)

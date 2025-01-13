@@ -16,7 +16,7 @@ This repository highlights my expertise in Business Intelligence, showcasing pro
 
 
 ## Repository Structure
-- `/canada-job-market-analysis`: Files for the Canada Labour Market Analysis project  
+- `/1-canada-labour-market`: Files for the Canada Labour Market Analysis project  
 
 
 

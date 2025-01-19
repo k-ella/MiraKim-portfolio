@@ -1,6 +1,6 @@
-# Mira Kim's Data Analytics Portfolio
+# Mira Kim's Business Intelligence Portfolio
 
-**Welcome to my portfolio repository!**
+**Welcome to my portfolio repository!**  
 This repository highlights my expertise in Business Intelligence, showcasing projects that demonstrate proficiency in Python, SQL, Tableau, and other tools. My work focuses on transforming complex datasets into actionable insights and building dynamic visualizations to support data-driven decision-making.
 
 
@@ -22,7 +22,6 @@ This repository highlights my expertise in Business Intelligence, showcasing pro
 
 ## About Me
 I am Mira Kim, an aspiring Buiness Intelligence specialist with over six years of experience working with large datasets. I am passionate about solving complex problems through data and presenting insights in a way that drives informed decisions.  
-
 
 
 

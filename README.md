@@ -13,10 +13,14 @@ This repository highlights my expertise in Business Intelligence, showcasing pro
 - [View Dashboard](https://public.tableau.com/views/CanadasLabourMarketInsightsbyIndustry/CanadasLabourMarketInsights?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
 - [View Project Files](https://github.com/k-ella/MiraKim-portfolio/tree/main/1-canada-labour-market)
 
-
+### 2. **Amazon Sales Dashboard**
+- **Description**: Designed an interactive Power BI dashboard using Kaggle’s Amazon sales dataset to simulate how sales operations teams monitor product KPIs and trends.
+- **Tools**: Python, Power BI
+- [View Project Files](https://github.com/k-ella/MiraKim-portfolio/tree/main/2-amazon-sales-dashborad)
 
 ## Repository Structure
-- `/1-canada-labour-market`: Files for the Canada Labour Market Analysis project  
+- `/1-canada-labour-market`: Files for Canada Labour Market Analysis project
+- `/2-amazon-sales-dashboard`: Files for Amazon Sales Dashboard project
 
 
 

@@ -11,7 +11,7 @@ This repository highlights my expertise in Business Intelligence, showcasing pro
 - **Description**: Analyzed employment trends across industries using public datasets to uncover insights into salary distributions and employment stability.
 - **Tools**: Python, SQL, Tableau
 - [View Dashboard](https://public.tableau.com/views/CanadasLabourMarketInsightsbyIndustry/CanadasLabourMarketInsights?:language=ko-KR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
-- [View Project Files](./canada-labour-market-analysis)
+- [View Project Files](./1-canada-labour-market-analysis)
 
 
 
